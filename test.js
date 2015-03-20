@@ -1,1 +1,1 @@
-function(){alert('this');}();
+(function(){alert('this');})();
